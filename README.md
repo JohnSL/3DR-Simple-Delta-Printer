@@ -1,7 +1,7 @@
-3DR-Simple-Delta-Printer
+3DR "Simple" Delta Printer
 ========================
 
-This is a derivative of RichRap's 3DR Delta printer, but redesigned from scratch to be printable from a Printrbot Simple, and to use it's parts in order to build this printer. You can find his original files here: https://github.com/RichRap/3DR-Delta-Printer
+This is a derivative of RichRap's 3DR Delta printer, but redesigned from scratch to be printable from a Printrbot Simple (hence the name), and to use the Simple's parts in order to build this printer. You can find his original files here: https://github.com/RichRap/3DR-Delta-Printer
 
 Thank you for downloading, please be aware and abide by the license all these files for the RichRap 3DR Delta printer are covered by - Attribution - ShareAlike Creative Commons V3 (CC BY-SA 3.0) - http://creativecommons.org/licenses/by-sa/3.0/
 

@@ -9,7 +9,9 @@ This License is not greatly restrictive at all, so please don't forget to attrib
 
 Current Status
 --------------
-This is very much a work in progress. You can follow me in two places:
+This is very much a work in progress. The SolidWorks files are built with version 2011, and represent a work in progress. The original STL files I checked in are what I've built so far.
+
+You can follow me in two places:
 
 My Blog: http://trains.socha.com  
 RepRap Forums: http://forums.reprap.org/read.php?178,244826
